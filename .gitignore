@@ -7,3 +7,9 @@
 *.egg
 *.egg-info
 
+__pycache__
+*pycache
+
+*.pyc
+*.pyo
+
