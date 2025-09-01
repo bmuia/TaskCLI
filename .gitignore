@@ -1,0 +1,9 @@
+/myenv
+
+*.db
+
+/build
+
+*.egg
+*.egg-info
+
