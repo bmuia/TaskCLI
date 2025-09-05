@@ -113,3 +113,5 @@ class Command:
                 self.console.print(f'[green][bold] Task {self.id} updated: {field} = {value}[/bold][/green]')
         except sqlite3.Error as e:
             self.console.print(f"[red]Error:[/red] {e}")
+
+
