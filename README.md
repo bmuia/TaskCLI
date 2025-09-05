@@ -22,7 +22,7 @@ It lets you manage tasks straight from your terminal — fast, simple, and distr
 ```bash
 |-- images/
 |    -- tasks.png       # Screenshot showing available commands
-|-- task_cli/
+|-- task_manager/
 |    -- __init__.py
 |    -- cli.py          # CLI entry point (Click commands)
 |    -- commands.py     # Database logic (SQLite actions)
